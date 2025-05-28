@@ -59,3 +59,4 @@
     <script type="module" src="inscritos.js"></script>
 </body>
 </html>
+ 
